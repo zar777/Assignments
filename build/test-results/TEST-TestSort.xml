@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSort" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-07-12T22:44:59" hostname="gianluca-VGN-CS21S-W" time="0.018">
+  <properties/>
+  <testcase name="sameLength" classname="TestSort" time="0.008"/>
+  <testcase name="notNullList" classname="TestSort" time="0.002"/>
+  <testcase name="orderedList" classname="TestSort" time="0.005"/>
+  <system-out><![CDATA[{1=[1], 20=[20, 20], 30=[30, 30, 30, 30]}
+,1,20,30
+[1, 20, 20, 30, 30, 30, 30]
+{1=[1], 20=[20, 20], 30=[30, 30, 30, 30]}
+,1,20,30
+[1, 20, 20, 30, 30, 30, 30]
+{1=[1], 20=[20, 20], 30=[30, 30, 30, 30]}
+,1,20,30
+[1, 20, 20, 30, 30, 30, 30]
+{1=[1], 20=[20, 20], 30=[30, 30, 30, 30]}
+,1,20,30
+[1, 20, 20, 30, 30, 30, 30]
+{1=[1], 20=[20, 20, 20], 30=[30, 30, 30]}
+,1,20,30
+[1, 20, 20, 20, 30, 30, 30]
+{1=[1], 20=[20, 20, 20], 30=[30, 30, 30]}
+,1,20,30
+[1, 20, 20, 20, 30, 30, 30]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
